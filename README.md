@@ -10,7 +10,7 @@ Implement a RAG system where it can take the path of a PDF file from user then
 Requirements:
 -------------
 1. Ollama must be installed in the system and working in: http://localhost:11434
-2. The Ollama must have the following LLM models: "mistal" and "mxbai-embed-large"
+2. The Ollama must have the following LLM models: "mistral" and "mxbai-embed-large"
 
 Some required packages:
 Run the following command:
