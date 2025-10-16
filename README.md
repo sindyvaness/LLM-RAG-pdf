@@ -19,5 +19,6 @@ npm install
 Execute the app:
 ----------------
 To execute the app you must provide the path of the pdf file.
-node index.js file.pdf
+
+=> node index.js file.pdf
 
